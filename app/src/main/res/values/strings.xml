@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas 4 - Parsing API Publik Superhero</string>
+    <string name="avatar">Avatar</string>
+    <string name="name">Joy Muhamad Rizal</string>
+    <string name="email">joymrizal@gmail.com</string>
+    <string name="title">API PUBLIK SUPERHERO</string>
+    <string name="parameter">parameter ...</string>
+
+</resources>
